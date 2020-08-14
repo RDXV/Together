@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639066565770",
+    "firebase_url": "https://together-fa7d4.firebaseio.com",
+    "project_id": "together-fa7d4",
+    "storage_bucket": "together-fa7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639066565770:android:59ff2befb128a3da995173",
+        "android_client_info": {
+          "package_name": "co.Varun.together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639066565770-e5jtqkf2hq5iuf89vi279b3e40giqea2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRpRUhl9AHhMd0kRrIujY9azXkBVdhSkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639066565770-e5jtqkf2hq5iuf89vi279b3e40giqea2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
